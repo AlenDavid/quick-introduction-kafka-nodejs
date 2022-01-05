@@ -1,0 +1,19 @@
+{
+  "name": "kafka-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A node.js example for Apache Kafka",
+  "author": {
+    "name": "David Alen",
+    "email": "davidalen.dev@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
